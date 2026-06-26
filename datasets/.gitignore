@@ -1,0 +1,20 @@
+# Exclude large raw data files (keep repo small) -- by extension so that
+# directories remain traversable and documentation/samples stay tracked.
+*.jsonl
+*.csv
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.npy
+*.npz
+*.arrow
+*.bin
+
+# Re-include documentation, scripts, and small curated samples
+!.gitignore
+!README.md
+!**/README.md
+!**/download.sh
+!**/samples/**

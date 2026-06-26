@@ -1,0 +1,18 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {
+        "papers_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/papers",
+        "datasets_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/datasets",
+        "code_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/code"
+      },
+      "log_file": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 9829.328171730042
+    }
+  },
+  "work_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155"
+}

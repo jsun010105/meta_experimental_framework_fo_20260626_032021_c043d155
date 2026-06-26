@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-06-26T03:20:32.030818",
+  "stages": {
+    "resource_finder": {
+      "status": "failed",
+      "started_at": "2026-06-26T03:20:32.031605",
+      "completed_at": "2026-06-26T06:04:21.374427",
+      "success": false,
+      "outputs": {
+        "papers_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/papers",
+        "datasets_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/datasets",
+        "code_dir": "/workspaces/meta_experimental_framework_fo_20260626_032021_c043d155/code"
+      }
+    }
+  },
+  "current_stage": null,
+  "completed": false
+}
